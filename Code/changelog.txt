@@ -1,0 +1,2 @@
+v1.0 - Versión heredada.
+v1.0.1 - Parche rápido de seguridad en main.
