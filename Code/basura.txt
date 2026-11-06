@@ -1,0 +1,4 @@
+=== TRACE DUMP DE PRUEBAS ===
+TOKEN_TEMPORAL = secret_123_borrar
+[TRACE] Error de conexion simulado en local.
+BORRAR ESTE ARCHIVO ANTES DE PASAR A PRODUCCION.
