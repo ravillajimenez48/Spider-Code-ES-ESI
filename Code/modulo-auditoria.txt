@@ -1,3 +1,4 @@
 === REGISTRO DE AUDITORÍA ===
-Estado del servidor: inicializado
+Estado del servidor: correcto y operativo
+Estado del modo: produccion
 Estado de pagos: no verificado
