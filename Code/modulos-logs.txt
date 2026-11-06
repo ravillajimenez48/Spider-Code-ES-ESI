@@ -1,2 +1,3 @@
-nivel_log = ¿¿DONE??
-formato_log = ¿¿DONE??
+# Ajustes de Auditoría y Registro
+nivel_log = INFO
+formato_log = json
