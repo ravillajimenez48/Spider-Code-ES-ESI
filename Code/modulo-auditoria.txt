@@ -1,4 +1,5 @@
-=== REGISTRO DE AUDITORÍA ===
+=== REGISTRO DE AUDITORÍA (FORMATO JSON) ===
+[ESTÁNDAR]: JSON_AUDIT_V2
 Estado del servidor: correcto y operativo
 Estado del modo: produccion
 Estado de pagos: verificado y conectado
