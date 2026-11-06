@@ -1,4 +1,5 @@
 === REGISTRO DE AUDITORÍA ===
 Estado del servidor: correcto y operativo
 Estado del modo: produccion
-Estado de pagos: no verificado
+Estado de pagos: verificado y conectado
+Estado de base de datos: OK
