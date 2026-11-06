@@ -1,6 +1,6 @@
 === MANUAL DE USUARIO ===
 Sección 1: Inicio de Sesión
-Para acceder al sistema use ????.
+Para acceder al sistema use Single Sign-On (SSO) de Google.
 
 Sección 2: Soporte
-Contactar con soporte@empresa.com para incidencias.
+Contactar con ayuda-tecnica@empresa.com para incidencias.
