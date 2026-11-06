@@ -1,0 +1,3 @@
+=== REGISTRO DE AUDITORÍA ===
+Estado del servidor: inicializado
+Estado de pagos: no verificado
