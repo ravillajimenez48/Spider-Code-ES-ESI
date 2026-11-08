@@ -1,2 +1,2 @@
-puerto = 99999
-autenticacion = desactivada
+puerto = 8080
+autenticacion = activada
