@@ -1,4 +1,4 @@
 Tikcet 2
 Conflictos varios
 Uso de cherry-pick
-
+revert
