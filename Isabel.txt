@@ -2,3 +2,4 @@ Tikcet 2
 Conflictos varios
 Uso de cherry-pick
 revert
+merge de O1 con r1
